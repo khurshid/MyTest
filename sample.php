@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-print date();
+print date("Y-m-d");
 ?>
